@@ -70,7 +70,7 @@ The system is trained on `metamorphosis_clean.txt` and adapts over time by incor
 ---
 
 ## 👥 Contributors
-- **[Viswas]** – Developer & Maintainer
+- **[Meghanadh Jakka]** – Developer & Maintainer
 
 📩 *Feel free to contribute or suggest improvements!* ✨
 
