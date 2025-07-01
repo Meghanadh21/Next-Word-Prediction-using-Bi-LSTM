@@ -1,4 +1,3 @@
-@@ -1 +1,80 @@
 # NEXT-WORD-PREDICTION-USING-LSTM
 # 🚀 Next Word Predictions using LSTM
 
@@ -80,3 +79,4 @@ The system is trained on `metamorphosis_clean.txt` and adapts over time by incor
 This project is licensed under the **MIT License**.
 
 ---
+
